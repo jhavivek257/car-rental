@@ -33,4 +33,4 @@ Admin Login and Password : `admin` - `password`
 
 
 ### Author
-[@iamareebjamal](https://github.com/iamareebjamal)
+[vivek jha](https://github.com/jhavivek257)
